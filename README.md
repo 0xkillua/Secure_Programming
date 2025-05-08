@@ -30,5 +30,23 @@ Make sure you have these installed:
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Setup Instructions
+
+### 1. Install Flask (if not already installed)
+
+```bash
+pip install flask
+```
+
+### 2. Create the Database 
+```bash
+python3 setup_db.py
+```
+### 3.  Start the Flask Application
+```bash
+python3 app.py
+```
+### 4. 🔎 Access the App
+The app will be available at:
+👉 http://localhost:5000
 
