@@ -50,4 +50,4 @@ python3 app.py
 The app will be available at:
 👉 http://localhost:5000
 Thank you
-MR Sayed Osama
+MR Sayed Osam
